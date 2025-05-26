@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "Blended-7",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blend_JS_6_lesson/",
+    "build": "vite build --base=/Blended-7/",
     "preview": "vite preview"
   },
   "devDependencies": {
